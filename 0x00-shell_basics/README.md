@@ -15,3 +15,8 @@ README FILE
 12-file_type
 13-symbolic_link
 14-copy_html
+100-lets_move
+101-clean_emacs
+102-tree
+103-commas
+holberton.mgc
